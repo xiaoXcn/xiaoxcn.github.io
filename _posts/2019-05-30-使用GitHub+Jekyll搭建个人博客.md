@@ -4,7 +4,7 @@ title: 使用GitHub+Jekyll搭建个人博客
 tags:
 - Jekyll
 - github
-categories: test
+categories: 杂谈
 description: 介绍如何使用github和jekyll搭建个人博客
 ---
 # 起点
