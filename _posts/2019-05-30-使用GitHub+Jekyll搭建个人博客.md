@@ -24,11 +24,11 @@ description: 介绍如何使用github和jekyll搭建个人博客
 ## 在GitHub上创建仓库
 1. New repository  
 在github上点击New repository，如下图  
-![](/index_files/274732471.png)
+![]({{site.url}}/index_files/274732471.png)
 
 2. 输入仓库名称，点击创建仓库  
 仓库名称的格式应该是要符合 xxx.github.io 这样的。以后xxx.github.io就是博客的地址了。创建完仓库后这个地址就可以访问了，只是里面没有文件，所以会显示404。  
-![](/index_files/275048045.png)
+![]({{site.url}}/index_files/275048045.png)
 3. 将仓库clone到本地  
 后续将博客文件放入到仓库中push到github上，通过前面的域名就可以访问了。当然文件及目录的格式还是要符合一定规则的。既然是github+Jekyll，那这个规则就属于Jekyll的范畴了。    
 
